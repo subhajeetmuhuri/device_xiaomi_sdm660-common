@@ -74,6 +74,11 @@ vendor/lib/hw/audio.bluetooth_qti.default.so|bbf5bed40ab75e0feed0753a40743dbf697
 vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so|87df9077916c6b9d4668c2156da165492a393386
 vendor/lib/libbluetooth_audio_session_qti.so|dcd45e11d85eb605b5f516961f88bf8b0a80c0eb
 
+# Audio (Dirac) - from xiaomi
+vendor/etc/diracmobile.config|d781cd6798a7481a8f7128d144abfb2b8794212d
+vendor/lib/libDiracAPI_SHARED.so|42b49679d38eca93fead05ea06ddbdc8108fd4b1
+vendor/lib/soundfx/libdirac.so|f63826a905b520fa524e4c1b147be7cf65240953
+
 # Bluetooth - from LA.UM.8.2.1.r1-05600-sdm660
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|5acf94f38e47c2ec43c95e132dfe7b5d71ec41c4
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc|a979981c55f3dcaf6cf2212e71b901ca4d58b959
